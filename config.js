@@ -1,4 +1,4 @@
 module.exports = {
-    token: "Botunuzun Tokenini Giriniz",
-    id: "Botunuzun ID'sini Giriniz"
+    token: "MTE3NTA0MDQ1MjA0MzQ4NTMwNg.GcJDFj.1A4VJsQyxBR_ZKaQC9A9wZxXClRgEnJ0rJTVQ4",
+    id: "1175040452043485306"
 }
